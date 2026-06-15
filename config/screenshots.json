@@ -1,0 +1,19 @@
+{
+  "iphone": {
+    "background": "#FFFFFF",
+    "caption_color": "#000000",
+    "font": "assets/fonts/Headline.ttf",
+    "shots": [
+      {"raw": "1.PNG",   "caption": "Roll real dice on any surface"},
+      {"raw": "2.PNG", "caption": "Real weight, real bounce, real rolls"},
+      {"raw": "3.PNG", "caption": "One die or a whole handful"},
+      {"raw": "4.PNG", "caption": "Every die your table needs"}
+    ]
+  },
+  "ipad": {
+    "background": "#FFFFFF",
+    "caption_color": "#000000",
+    "font": "assets/fonts/Headline.ttf",
+    "shots": []
+  }
+}

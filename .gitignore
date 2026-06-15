@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# appshot project
+.DS_Store
+assets/out/
+assets/raw/
